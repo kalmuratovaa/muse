@@ -1,5 +1,4 @@
-# muse
-Final project MUSE
+#Final project MUSE 
 This project about Model Agency.
 
 muse
