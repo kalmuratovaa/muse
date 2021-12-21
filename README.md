@@ -33,7 +33,7 @@
  <h2>Authors</h2>
  <ul>
     <li> Akerke Kalmuratova & Ayazhan Sultan </li>
-    <li> Instagram : @kalmuratova__a & </li>
+    <li> Instagram : @kalmuratova__a https://www.instagram.com/kalmuratova__a/ & </li>
     <li> Github : https://github.com/kalmuratovaa </li>
   </ul>
 muse
