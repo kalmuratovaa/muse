@@ -23,5 +23,12 @@
     <li> Live URL:http://127.0.0.1:5500/index.html#new
  </li>
   </ul>
+  Built with
+ <ul>
+  <li>Started creating with Semantic HTML5 markup</li>
+  <li>Added CSS Styles</li>
+  <li>Added functionality using JavaScript</li>
+  <li>Added CSS & JS animation</li>
+
 muse
 http://127.0.0.1:5500/index.html#new
