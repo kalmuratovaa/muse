@@ -1,9 +1,17 @@
 <h2>MUSE</h2>
 <h5> Final project MUSE .This project about Model Agency.</h5>
-Table of contents
-- Overview
-- Screenshot
-- Links
+
+<ul>
+  <h4>Table of contents</h4>
+    <li> Overview</li>
+    <li> Screenshot</li>
+    <li> Links</li>
+  </ul>
+
+
+
+
+
 Process
 - Built with 
 - What I learned
