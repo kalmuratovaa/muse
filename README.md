@@ -36,5 +36,6 @@
     <li> Instagram : @kalmuratova__a https://www.instagram.com/kalmuratova__a/ & </li>
     <li> Github : https://github.com/kalmuratovaa </li>
   </ul>
+  <h1>Thank U!</h1>
 muse
 http://127.0.0.1:5500/index.html#new
