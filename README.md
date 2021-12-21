@@ -10,8 +10,6 @@
   <ul>
   <h4>Process</h4>
     <li>Built with  </li>
-    <li> What I learned</li>
-    <li> Useful Links</li>
   </ul>
 <h4>Author</h4>
 <hr>
@@ -29,6 +27,9 @@
   <li>Added CSS Styles</li>
   <li>Added functionality using JavaScript</li>
   <li>Added CSS & JS animation</li>
+  </ul>
+ <h4>What I Learned</h4>
+ <p> Final Project helped to understand more HTML,CSS,JS. I had a lot of practice and my knowledge improved.
 
 muse
 http://127.0.0.1:5500/index.html#new
