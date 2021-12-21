@@ -34,7 +34,9 @@
  <ul>
     <li> Akerke Kalmuratova & Ayazhan Sultan </li>
     <li> Instagram : @kalmuratova__a https://www.instagram.com/kalmuratova__a/ & </li>
+  <li> Instagram : @ayash_sl https://www.instagram.com/ayash_sl/ </li>
     <li> Github : https://github.com/kalmuratovaa </li>
+  <li> Github : https://github.com/Ayazhan2001 </li>
   </ul>
   <h1>Thank U!</h1>
 muse
