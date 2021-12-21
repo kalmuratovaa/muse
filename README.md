@@ -34,7 +34,7 @@
  <ul>
     <li> Akerke Kalmuratova & Ayazhan Sultan </li>
     <li> Instagram : @kalmuratova__a & </li>
-    <li> Github : </li>
+    <li> Github : https://github.com/kalmuratovaa </li>
   </ul>
 muse
 http://127.0.0.1:5500/index.html#new
