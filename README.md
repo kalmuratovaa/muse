@@ -13,7 +13,6 @@
     <li> What I learned</li>
     <li> Useful Links</li>
   </ul>
-<h3>Process</h3>
 <h4>Author</h4>
 
 This is a final exam project.
