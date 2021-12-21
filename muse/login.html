@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="css/login.css">
+  <link rel="stylesheet" type="text/css" href="css/login2.css">
+  <title> Login || MUSE</title>
+</head>
+<body>
+  <p class="tip">THE ART IS YOU</p>
+  
+  <div class="cont">
+      <h2>Create Account</h2>
+    <form id="form" class="form">
+      <div class="form-control">
+        <input type="text" placeholder="Enter your name" id="username" />
+        <small>Error message</small>
+      </div>
+      <div class="form-control">
+        <input type="email" placeholder="muse@art.com" id="email" />
+        <small>Error message</small>
+      </div>
+      <div class="form-control">
+        <input type="password" placeholder="Password" id="password"/>
+        <small>Error message</small>
+      </div>
+      <div class="form-control">
+        <input type="password" placeholder="Corfirm your password" id="password2"/>
+        <small>Error message</small>
+      </div>
+      <div class="field btn">
+        <div class="btn-layer"></div>
+        <input type="submit" value="Sign up">
+      </div>
+    </form>
+    <div class="sub-cont">
+            <div class="img">
+                <div class="img__text m--up">
+                    <h2>New here?</h2>
+                    <p>Sign up and discover great amount of new opportunities!</p>
+                </div>
+                <div class="img__text m--in">
+                    <h2>One of us?</h2>
+                    <p>If you already has an account, just sign in. We've missed you!</p>
+                </div>
+                <div class="img__btn">
+                    <span class="m--up">Sign Up</span>
+                    <span class="m--in">Sign In</span>
+                </div>
+            </div>
+            <div class="form sign-up">
+                <h2>Time to feel like home,</h2>
+                <form class="login">
+                  <div class="form-control">
+                    <input type="text" placeholder="Enter your name" id="userLog" />
+                    <small>Error message</small>
+                  </div>
+                  <div class="form-control">
+                    <input type="password" placeholder="Password" id="passLog"/>
+                    <small>Error message</small>
+                  </div>
+                  <div class="forgot-pas"><a href="#">Forgot Password?</a></div>
+                  <div class="field btn">
+                    <div class="btn-layer"></div>
+                    <input type="submit" value="Login">
+                  </div>
+                </form>
+            </div>
+        </div>
+</div>
+<script type="text/javascript" src="js/login.js"></script>
+<script>
+        document.querySelector('.img__btn').addEventListener('click', function() {
+            document.querySelector('.cont').classList.toggle('s--signup');
+        });
+    </script>
+
+</body>
+</html>
+
+
+
