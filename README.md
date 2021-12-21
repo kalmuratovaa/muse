@@ -3,16 +3,17 @@
 
 <ul>
   <h4>Table of contents</h4>
-  <hr>
     <li> Overview</li>
     <li> Screenshot</li>
     <li> Links</li>
   </ul>
+  <ul>
+  <h4>Process</h4>
+    <li>Built with  </li>
+    <li> What I learned</li>
+    <li> Useful Links</li>
+  </ul>
 <h3>Process</h3>
-- Built with 
-- What I learned
-- Useful Links
-<hr>
 <h4>Author</h4>
 
 This is a final exam project.
