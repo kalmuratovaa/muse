@@ -14,9 +14,8 @@
     <li> Useful Links</li>
   </ul>
 <h4>Author</h4>
-
-This is a final exam project.
 <hr>
+<h4>Screenshot</h4>
 <img width="1434" alt="Снимок экрана 2021-12-21 в 23 23 58" src="https://user-images.githubusercontent.com/91882570/146972603-84abbbad-f435-41aa-b78d-c7a08e206bc9.png">
 
 muse
