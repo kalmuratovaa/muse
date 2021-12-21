@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:wght@100;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    padding: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* background: rgb(214, 212, 212); */
+    /* transition: 0.5s; */
+}
+
+header{
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100%;
+        padding: 20px 100px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        z-index: 1;
+    }
+header .logo{
+    position: relative;
+    max-width: 90px;
+}
+
+header ul{
+    position: relative;
+    display:flex;
+    font-size: 1,7em;
+}
+header ul li{
+    list-style: none;
+}
+header ul li a{
+    display: inline-block;
+    color: black;
+    font-weight: 500;
+    margin-left: 55px;
+
+    text-decoration: none;
+}
+.content{
+    position: relative;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.content_text{
+    position: relative;
+    max-width: 600px;
+    transform: translateY(-5%);
+}
+.content_text h2{
+    color: rgb(99, 90, 90);
+    font-size: 4em;
+    line-height: 1.5em;
+    font-weight: 700;
+    text-decoration: uppercase;
+}
+.content_text h2 span{
+    font-size: 2,5em;
+    font-weight: 950;
+}
+.content_text p{
+    font-size: 0,5em;
+    font-weight: 390;
+    color: rgb(51, 46, 46);
+}
+.content_text a{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 8px 20px;
+    background: rgb(51, 46, 46);
+    color:#fff;
+    border-radius: 40px;
+    font-weight: 500;
+    letter-spacing: 1px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+.content_img{
+    width: 90px;
+    display: flex;
+    padding-right: 2px;
+    margin-top: 10px;
+    justify-content: flex-end;
+    max-width: 260px;
+    transform: translateX(70%);
+}
