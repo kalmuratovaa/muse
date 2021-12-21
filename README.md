@@ -30,6 +30,11 @@
   </ul>
  <h4>What I Learned</h4>
  <p> Final Project helped to understand more HTML,CSS,JS. I had a lot of practice and my knowledge improved.
-
+ <h2>Authors</h2>
+ <ul>
+    <li> Akerke Kalmuratova & Ayazhan Sultan </li>
+    <li> Instagram : @kalmuratova__a & </li>
+    <li> Github : </li>
+  </ul>
 muse
 http://127.0.0.1:5500/index.html#new
