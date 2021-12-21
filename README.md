@@ -1,25 +1,23 @@
-#muse
-Final project MUSE .
-This project about Model Agency.
+<h2>MUSE</h2>
+<h5> Final project MUSE .This project about Model Agency.</h5>
+
+<ul>
+  <h4>Table of contents</h4>
+  <hr>
+    <li> Overview</li>
+    <li> Screenshot</li>
+    <li> Links</li>
+  </ul>
+<h3>Process</h3>
+- Built with 
+- What I learned
+- Useful Links
+<hr>
+<h4>Author</h4>
+
+This is a final exam project.
+<hr>
+<img width="1434" alt="Снимок экрана 2021-12-21 в 23 23 58" src="https://user-images.githubusercontent.com/91882570/146972603-84abbbad-f435-41aa-b78d-c7a08e206bc9.png">
 
 muse
 http://127.0.0.1:5500/index.html#new
-
-
-### Process ###
-# Build with
--- Started creating with Semantic HTML5 markup
-- Added CSS styles
-- Use CSS Grid
-- Added basic functionality using Javascript
-- Pushed the project to github as a result
-
-
-# What I learned
-
-This task helped me to better understand and use CSS Grid. It help us to practice JS and css more.
-Also this our first big project, and we tried to do our best.
-
-# Useful source
-
-- MDN CSS Grid Layout https://developer.mozilla.org/ru/docs/Web/CSS/CSS_Grid_Layout/Basic_Concepts_of_Grid_Layout
