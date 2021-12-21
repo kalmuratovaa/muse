@@ -1,7 +1,5 @@
 <h2>MUSE</h2>
-Final project MUSE .
-This project about Model Agency.
-
+<h5> Final project MUSE .This project about Model Agency.</h5>
 Table of contents
 - Overview
 - Screenshot
